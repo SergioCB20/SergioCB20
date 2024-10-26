@@ -6,7 +6,7 @@
 
 - 💻 Fullstack Developer
 - 🧑🏻‍🎓 CS Student at PUCP
-- 💪 I maintain a strong presence on [![LinkedIn](https://www.linkedin.com/in/sergio-chumbimuni-372280245/)
+- 💪 I maintain a strong presence on [![LinkedIn](https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-transparent-PNG.png)]
 
 ## ⚙️ &nbsp;GitHub Analytics
 
