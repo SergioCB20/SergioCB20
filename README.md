@@ -6,7 +6,7 @@
 
 - 💻 Fullstack Developer
 - 🧑🏻‍🎓 CS Student at PUCP
-- 💪 I maintain a strong presence on [![LinkedIn](https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-transparent-PNG.png)]
+- 💪 I maintain a strong presence on [![LinkedIn](https://img.icons8.com/?size=100&id=85141&format=png&color=000000)]
 
 ## ⚙️ &nbsp;GitHub Analytics
 
