@@ -2,7 +2,7 @@
 <h1 align="center">Hi👋,<a href="#">SergioCB</a> here</h1>
 </div>
 
-## About me
+## 😎 About me
 
 - 💻 Fullstack Developer
 - 🧑🏻‍🎓 CS Student at PUCP
@@ -17,6 +17,6 @@
 </a>
 </p>
 
-## My thropies
+## 🏆 My thropies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SergioCB" alt="SergioCB" /></a> </p>
 
